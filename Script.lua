@@ -1,1 +1,0 @@
-local GT = gg.makeRequest("https://github.com/bronseloop/jaja/raw/main/script.lua").content
